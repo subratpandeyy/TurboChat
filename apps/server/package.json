@@ -12,5 +12,8 @@
         "socket.io": "^4.8.1",
         "tsc-watch": "^7.2.0",
         "typescript": "^5.9.2"
+    },
+    "dependencies": {
+        "ioredis": "^5.8.2"
     }
 }
